@@ -8,6 +8,7 @@
 | **Phase** | P01: Database Design & Relationships |
 | **Status** | ✅ Done (2026-10-07) |
 | **Branch** | `feature/database-relations` |
+| **Pull Request** | <https://github.com/mirzayogy/laravel5d/pull/33> |
 | **Repository** | [muhammadiril56/laravel5d](https://github.com/muhammadiril56/laravel5d) |
 
 ## Goal
